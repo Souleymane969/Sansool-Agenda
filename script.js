@@ -1,4 +1,3 @@
-// Code existant
 console.log("Script chargé avec succès !");
 
 // Fonction pour générer un calendrier basique
